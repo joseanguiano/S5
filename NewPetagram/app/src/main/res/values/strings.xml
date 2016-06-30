@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"> Animales</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="texto_Accion">Acción</string>
+    <string name="segundo_activity">Like</string>
+    <string name="likes">10</string>
+    <string name="pnombre">nombre</string>
+    <string name="plikes">likes</string>
+    <string name="favs">5 Favoritos</string>
+    <string name="contacto_toolbar">Contacto</string>
+    <string name="about_toolbar">Acerca de</string>
+    <string name="correo_to">Ingresa tu Correo</string>
+    <string name="correo_subject">Ingresa Tu Nombre</string>
+    <string name="correo_msgtext">Ingresa Tu Comentario</string>
+    <string name="correo_send">Enviar</string>
+    <string name="correo_title">Correo</string>
+    <string name="about_title">Biografia</string>
+    <string name="about_developer">Biografia mia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
